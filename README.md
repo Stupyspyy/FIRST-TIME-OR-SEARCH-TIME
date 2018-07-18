@@ -24,13 +24,10 @@ here we go with 'git'
 
 ##### WHY YOU NEED THIS
 
+g
 
-kdfkj
-ljfsdlj
-ljflj
-
-### 1. Fork this repository
-Fork this repo by clicking on the fork button on the top of this page.
+### 1. Fork the repository
+Fork this repo by clicking on the fork button on the top-right of this page.
 This will create a copy of this repository in your account.
 
 
@@ -66,35 +63,55 @@ cd first-contributions
 ```
 Now create a branch using the `git checkout` command:
 ```
-git checkout -b <add-your-name>
+git checkout -b <add-branch-name>
 ```
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b newbranch
 ```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-### 4. Make necessary changes and commit those changes
 
-Now open `Github_user.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+### 4. Make changes and commit those changes
+
+Now open `Github_user.md` file in a text editor and enter details in the following format  
+```
+   Name: "Your name here"    
+   Bio: "Enter about yourself here"  
+   Github: [Github username](github profile url)   
+```
+   * make sure to give 2 whitespaces after each colon.  
+
+
+
+If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 ```
 git add Github_user.md
 ```
+ 
+Now commit those changes using the `git commit` command and meaningful commit message like "Added to Github_user list":
+```
+git commit -m "Commit message here"
+```
+(include double quotes)
 
-Now commit those changes using the `git commit` command:
+For example:
 ```
-git commit -m "Add <your-name> to Github_user list"
+git commit -m "Added to Github_user list"
 ```
-replacing `<your-name>` with your name.
 
 ### 5. Push changes to GitHub
 
 Push your changes using the command `git push`:
 ```
-git push origin <add-your-name>
+git push origin "branch name"
 ```
-replacing `<add-your-name>` with the name of the branch you created earlier.
+replacing `<branch name>` with the name of the branch you created earlier.
+
+For example:
+```
+git push origin newbranch
+```
 
 ### 6. Submit your changes for review
 
@@ -106,4 +123,4 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://github.com/Stupyspyy/FIRST-TIME-ON-GITHUB/blob/master/img/New%20folder/submit-pull.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Sit back and relax while your pull request is reviewed and merged.
