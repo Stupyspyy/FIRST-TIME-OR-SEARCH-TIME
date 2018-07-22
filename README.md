@@ -1,7 +1,7 @@
 # WHY YOU NEED GITHUB ACCOUNT
    For many purposes, but if in simple we say "MANAGING TEAM WORK" aor "UPDATING YOUR PROJECT TO AVOID ANY PROBLEM REGARDING FILE CORRUPT" or "GETTING HELP FROM OTHERS (may be you are in team, then you can see what your other members working)"
 
-# FIRST-TIME-ON-GITHUB
+# FIRST-TIME-OR-SEARCH-TIME
    This project is beneficial for new one and who are trying to know the 0th level of github (.i.e. how to pull request and make commmit )  
    
    Using this, you can take help from others through their profile in which mutual interest are same and helping others through HIGHLIGHTING_YOUR_PROFILE so start contributing :-}
