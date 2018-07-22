@@ -16,17 +16,24 @@ You are just contributing to this project by adding your name, bio(about yoursel
 
 here we go with 'git'
 
+
 ### Installing git:
+
+<img align="right" width="300" src="https://github.com/Stupyspyy/FIRST-TIME-ON-GITHUB/blob/master/img/New%20folder/fork.png" alt="fork this repository" />
+
 
 - Ubuntu:    `sudo apt-get install git`
 - Windows: [Download](https://git-scm.com/download/win)
 - Mac: [Download](https://git-scm.com/download/mac)
-<img align="right" width="300" src="https://github.com/Stupyspyy/FIRST-TIME-ON-GITHUB/blob/master/img/New%20folder/fork.png" alt="fork this repository" />
+
+
+
 
 
 ### 1. Fork the repository
 Fork this repo by clicking on the fork button on the top-right of this page.
 This will create a copy of this repository in your account.
+
 
 
 
