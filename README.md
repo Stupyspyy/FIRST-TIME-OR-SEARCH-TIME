@@ -86,7 +86,7 @@ Now open `Github_user.md` file in a text editor and enter details in the followi
    Github: [Github username](github profile url)   
 ```
    * make sure to give 2 whitespaces after each colon.  
-
+   * make sure to give username in [] and url in () with no spaces in between username and url
 
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
