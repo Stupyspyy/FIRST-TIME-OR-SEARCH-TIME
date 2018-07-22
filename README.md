@@ -2,9 +2,11 @@
    For many purposes, but if in simple we say "MANAGING TEAM WORK" aor "UPDATING YOUR PROJECT TO AVOID ANY PROBLEM REGARDING FILE CORRUPT" or "GETTING HELP FROM OTHERS (may be you are in team, then you can see what your other members working)"
 
 # FIRST-TIME-ON-GITHUB
-   This project is beneficial for new one and who are trying to know the 0th level of github (.i.e. how to pull request and make commmit ) and also you can use this to HIGHLIGHTING_YOUR_PROFILE so start contributing :-}
+   This project is beneficial for new one and who are trying to know the 0th level of github (.i.e. how to pull request and make commmit )  
    
-For this contribution you don't need any programming skills, nothing like that ...
+   Using this, you can take help from others through their profile in which mutual interest are same and helping others through HIGHLIGHTING_YOUR_PROFILE so start contributing :-}
+   
+Newbies don't need to worry because for this contribution you don't need any programming skills...
 You are just contributing to this project by adding your name, bio(about yourself in max 10 words), your github username
 
 # STEPS TO FOLLOW
